@@ -1,3 +1,4 @@
+<html>pozdrav</html>
 <?php
 $host = "lvpatrikluka-server.mysql.database.azure.com";
 $user = "mnctbuband";
